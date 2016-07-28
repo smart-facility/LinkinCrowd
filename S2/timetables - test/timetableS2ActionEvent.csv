@@ -1,0 +1,3 @@
+Reference Event Name,Time Offset,Duration,Apply only to Reference Event,Key Token,Target Zone,Action,Give Tokens...
+train1ArrivingP4,0:00:45,23:59:00,,trainTicketP4,,waitOnP3_4,
+train1ArrivingP4,0:00:46,,,,,back2SeatsTrainP4,

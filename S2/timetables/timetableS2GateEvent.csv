@@ -1,0 +1,17 @@
+Reference Event Name,Time Offset,Duration,Apply only to Reference Event,Key Token,Gate
+train0line3ArrivingP4S2,,,,,traindoorsP4
+train0line2ArrivingP1S2,,,,,traindoorsP1
+train0line4ArrivingP3S2,,,,,traindoorsP3
+train0line1ArrivingP2S2,,,,,traindoorsP2
+train1line3ArrivingP4S2,,,,,traindoorsP4
+train1line2ArrivingP1S2,,,,,traindoorsP1
+train1line4ArrivingP3S2,,,,,traindoorsP3
+train2line3ArrivingP4S2,,,,,traindoorsP4
+train2line2ArrivingP1S2,,,,,traindoorsP1
+train1line1ArrivingP2S2,,,,,traindoorsP2
+train3line3ArrivingP4S2,,,,,traindoorsP4
+train3line2ArrivingP1S2,,,,,traindoorsP1
+train2line4ArrivingP3S2,,,,,traindoorsP3
+train2line1ArrivingP2S2,,,,,traindoorsP2
+train3line4ArrivingP3S2,,,,,traindoorsP3
+train3line1ArrivingP2S2,,,,,traindoorsP2

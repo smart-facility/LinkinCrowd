@@ -1,0 +1,16 @@
+From,To,Population,Time Offset,Curve,Avatar,Profile,Init Action,Give Tokens...
+gateS2,train1ArrivingP4,50,-0:06:00,paxArrRateAtStn,Blue_LowPoly,slimFastActiv,waitOnP3_4,trainTicketP4
+gateS2,train1ArrivingP4,50,-0:06:00,paxArrRateAtStn,Green_LowPoly,,waitOnP3_4,trainTicketP4
+gateS2,train1ArrivingP4,50,-0:06:00,paxArrRateAtStn,Orange_LowPoly,fatSlowLazy,waitOnP3_4,trainTicketP4
+train1ArrivingP4,gateS2,30,,,Blue_LowPoly,slimFastActiv,,
+train1ArrivingP4,gateS2,30,,,Green_LowPoly,,,
+train1ArrivingP4,gateS2,30,,,Orange_LowPoly,fatSlowLazy,,
+train1ArrivingP4,trainSeatsP1,7,,,Blue_LowPoly,slimFastActiv,waitOnP1_2,trainTicketP1
+train1ArrivingP4,trainSeatsP1,7,,,Green_LowPoly,,waitOnP1_2,trainTicketP1
+train1ArrivingP4,trainSeatsP1,7,,,Orange_LowPoly,fatSlowLazy,waitOnP1_2,trainTicketP1
+train1ArrivingP4,trainSeatsP2,7,,,Blue_LowPoly,slimFastActiv,waitOnP1_2,trainTicketP2
+train1ArrivingP4,trainSeatsP2,7,,,Green_LowPoly,,waitOnP1_2,trainTicketP2
+train1ArrivingP4,trainSeatsP2,7,,,Orange_LowPoly,fatSlowLazy,waitOnP1_2,trainTicketP2
+train1ArrivingP4,trainSeatsP3,7,,,Blue_LowPoly,slimFastActiv,waitOnP3_4,trainTicketP3
+train1ArrivingP4,trainSeatsP3,7,,,Green_LowPoly,,waitOnP3_4,trainTicketP3
+train1ArrivingP4,trainSeatsP3,7,,,Orange_LowPoly,fatSlowLazy,waitOnP3_4,trainTicketP3
