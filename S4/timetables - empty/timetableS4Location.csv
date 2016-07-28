@@ -1,0 +1,4 @@
+Group Name,Use Closest Goal,gate1S4,gate2S4,seats1P1S4,seats1P2S4,seats2P1S4,seats2P2S4,seats3P1S4,seats3P2S4,wait1P1S4,wait1P2S4,wait2P1S4,wait2P2S4,wait3P1S4,wait3P2S4
+trainSeatsP1,,,,y,,y,,y
+trainSeatsP2,,,,,y,,y,,y
+gateS4,,y,y
