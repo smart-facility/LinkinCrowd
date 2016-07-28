@@ -1,0 +1,1 @@
+Server,AverageContactTime(s),TotalProcessed,AverageWaitTime(s),MaxQueueCount,TimeOfMaxQueueCount,MaxWaitTime(s),TimeAtEndOfMaxWaitTime,IDOfWaitingAgent

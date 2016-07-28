@@ -1,0 +1,9 @@
+Reference Event Name,Start Time,Duration,Location,Init Action,Give Tokens...
+train0line2ArrivingP1S3,03:01:00,0:00:45,trainSeatsP1,,
+train1line2ArrivingP1S3,03:04:00,0:00:45,trainSeatsP1,,
+train2line2ArrivingP1S3,03:07:00,0:00:45,trainSeatsP1,,
+train3line2ArrivingP1S3,03:10:00,0:00:45,trainSeatsP1,,
+train0line1ArrivingP2S3,03:12:00,0:00:45,trainSeatsP2,,
+train1line1ArrivingP2S3,03:17:00,0:00:45,trainSeatsP2,,
+train2line1ArrivingP2S3,03:22:00,0:00:45,trainSeatsP2,,
+train3line1ArrivingP2S3,03:27:00,0:00:45,trainSeatsP2,,

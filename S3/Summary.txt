@@ -1,0 +1,1747 @@
+MassMotion Project Information
+Date of Export: 2016/7/19, 10:23:41
+MM Version    : 7.0.5.0
+XSI Version   : 13.0.114.0
+File Name     : C:\Users\nhuynh\workingDirectory\rTopics\crowdsim\myMMworks\prototype linkedStations\S3\newStation3.emdl
+--------------
+
+
+Statistics
+{
+     Total Actors          : 44
+     Connection Elements   : 13
+     Gates                 : 12
+     Entrances             : 11
+     Exits                 : 11
+
+     Actor Types
+     {
+          Floor: 8
+          Portal: 11
+          Link: 12
+          Ramp: 0
+          Stair: 1
+          Escalator: 0
+          Barrier: 2
+          Agent Avatar: 10
+          Path: 0
+          Server: 0
+     }
+}
+
+Simulation Settings
+{
+    MajorVersion = 7
+    MinorVersion = 0
+    MaintVersion = 5
+    BuildVersion = 0
+    XSIVersionString = 13.0.114.0
+    TimeOfLastSave = 2016/4/1, 18:54:54
+    MaxUsedObjectID = 104
+    StartTimeHours = 0
+    StartTimeMinutes = 0
+    StartTimeSeconds = 0
+    DurationHours = 0
+    DurationMinutes = 15
+    DurationSeconds = 0
+    FrameRate = 5
+    ExportUnclassified = false
+    PopulationMultiplier = 1
+    AgentMovementStandard = 1
+    LogSurfaceMaps = false
+    LogCostTrees = false
+    LogIceCache = false
+    LogIceCacheUseWindow = false
+    LogIceCacheWindowStartHours = 0
+    LogIceCacheWindowStartMinutes = 0
+    LogIceCacheWindowStartSeconds = 0
+    LogIceCacheWindowDurationHours = 0
+    LogIceCacheWindowDurationMinutes = 15
+    LogIceCacheWindowDurationSeconds = 0
+    LogFloorJourneyTime = false
+    LogTokenJourneyTime = false
+    LogQueueAverageOnLinks = false
+    LogQueueAverageOnServers = false
+    LogQueueAverageWindowSize = 60
+    LogQueueAverageReportPeriod = 30
+    ReportSamplePeriod = 60
+    LogAgentSpeedCongestionThresholdFactor = 0.88
+    UnitType = 2
+    BaseOutputPath = C:/Users/nhuynh/workingDirectory/rTopics/crowdsim/myMMworks/prototype linkedStations/S3/
+    ColorScheme = Default
+    UseColorScheme = true
+    UseCustomColors = false
+    UnclassifiedActor_R = 0.6
+    UnclassifiedActor_G = 0.6
+    UnclassifiedActor_B = 0.6
+    UnclassifiedActor_A = 1
+    FloorActor_R = 0.584
+    FloorActor_G = 0.729
+    FloorActor_B = 0.788
+    FloorActor_A = 1
+    PortalActor_R = 0
+    PortalActor_G = 0.533
+    PortalActor_B = 0
+    PortalActor_A = 1
+    LinkActor_R = 0.9
+    LinkActor_G = 0.9
+    LinkActor_B = 0
+    LinkActor_A = 1
+    RampActor_R = 0.827
+    RampActor_G = 0.653
+    RampActor_B = 0
+    RampActor_A = 1
+    StairActor_R = 0.867
+    StairActor_G = 0.434
+    StairActor_B = 0
+    StairActor_A = 1
+    EscalatorActor_R = 0.694
+    EscalatorActor_G = 0.188
+    EscalatorActor_B = 0
+    EscalatorActor_A = 1
+    BarrierActor_R = 0
+    BarrierActor_G = 0.392
+    BarrierActor_B = 0.575
+    BarrierActor_A = 0.8
+    SignActor_R = 0.888
+    SignActor_G = 0.888
+    SignActor_B = 0.888
+    SignActor_A = 0.6
+    WaitZoneActor_R = 0.595
+    WaitZoneActor_G = 0.498
+    WaitZoneActor_B = 0.718
+    WaitZoneActor_A = 0.4
+    BackgroundColor_R = 0.4
+    BackgroundColor_G = 0.4
+    BackgroundColor_B = 0.4
+    ViewpointTranslation_X = -30
+    ViewpointTranslation_Y = 34
+    ViewpointTranslation_Z = 73
+    ViewpointRotation_X = -22
+    ViewpointRotation_Y = -22
+    ViewpointRotation_Z = 0
+    ViewpointFOV = 28.072
+    PlaybackOn = false
+    CaptureOn = false
+    CaptureStartHours = 0
+    CaptureStartMinutes = 0
+    CaptureStartSeconds = 0
+    CaptureDurationHours = 0
+    CaptureDurationMinutes = 15
+    CaptureDurationSeconds = 0
+    RandomFixedSeed = 1234
+    RenderSlateEnabled = false
+}
+
+Actor Details
+{
+     car3P1S3
+     {
+         car3P1S3.ActorProperties
+         {
+             MMID = 76
+             GlobalID = f86b32e9-0320-4cdf-b57b-87fb3cd02307
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     P1_2S3
+     {
+         P1_2S3.ActorProperties
+         {
+             MMID = 79
+             GlobalID = 624a4c9f-c11d-490c-9690-7aae6fb90bdd
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     concourseS3
+     {
+         concourseS3.ActorProperties
+         {
+             MMID = 82
+             GlobalID = 480e55c1-b4dd-4c4f-96da-a9b639a7aa42
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     car1P2S3
+     {
+         car1P2S3.ActorProperties
+         {
+             MMID = 89
+             GlobalID = e3706834-48fc-4464-90e6-1d8c85c5fb03
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     car1P1S3
+     {
+         car1P1S3.ActorProperties
+         {
+             MMID = 92
+             GlobalID = 1e62a728-fc47-4779-80c2-f131cec4b551
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     car2P1S3
+     {
+         car2P1S3.ActorProperties
+         {
+             MMID = 62
+             GlobalID = 0152a6ba-c337-435d-884c-c2a10568d271
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     car2P2S3
+     {
+         car2P2S3.ActorProperties
+         {
+             MMID = 63
+             GlobalID = 3066c59a-4e59-4d44-83cf-394a9d651f41
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     car3P2S3
+     {
+         car3P2S3.ActorProperties
+         {
+             MMID = 66
+             GlobalID = 4e6f66bc-c978-4ea7-b938-e357c633a04d
+             CPTypeString = UnknownRTKNode
+             ActorType = 2
+             ActorTypeString = FloorActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 0
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             ZoneDisplay = -1
+             ZoneIDGrid = GridData
+             ActionEnter_ID = -1
+             ActionExit_ID = -1
+         }
+     }
+     seats3P1S3
+     {
+         seats3P1S3.ActorProperties
+         {
+             MMID = 60
+             GlobalID = 26a1a338-47e2-405f-9ede-d6a054d733b4
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 180
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     gate2S3
+     {
+         gate2S3.ActorProperties
+         {
+             MMID = 83
+             GlobalID = fbecd9be-07cc-4df2-89b7-4a5e65d6bf4a
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 0
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     gate1S3
+     {
+         gate1S3.ActorProperties
+         {
+             MMID = 84
+             GlobalID = 8fc7ba58-0273-45bf-af2e-bf984b3a3e21
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 0
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     seats1P1S3
+     {
+         seats1P1S3.ActorProperties
+         {
+             MMID = 86
+             GlobalID = 13066aa2-f47d-4c06-b5c1-46e0167eebfd
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 180
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     seats1P2S3
+     {
+         seats1P2S3.ActorProperties
+         {
+             MMID = 87
+             GlobalID = e14a3419-8604-4a65-bf11-c2a9082c9b2b
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 180
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     seats2P2S3
+     {
+         seats2P2S3.ActorProperties
+         {
+             MMID = 61
+             GlobalID = b7f27d47-1495-4cf2-8335-322a0cf542b4
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 180
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     seats3P2S3
+     {
+         seats3P2S3.ActorProperties
+         {
+             MMID = 67
+             GlobalID = 7b338565-3300-403e-82d0-06622e196106
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 180
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     seats2P1S3
+     {
+         seats2P1S3.ActorProperties
+         {
+             MMID = 59
+             GlobalID = e7d4a83f-ec88-4f79-bce1-4835441a889e
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 180
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     wait3P1_2S3
+     {
+         wait3P1_2S3.ActorProperties
+         {
+             MMID = 69
+             GlobalID = 5d063e32-fff3-40f9-998c-2a2437f2f2bb
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 0
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     wait1P1_2S3
+     {
+         wait1P1_2S3.ActorProperties
+         {
+             MMID = 77
+             GlobalID = 0dc89b00-8a2e-4f64-9496-5452f1528ad1
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 0
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     wait2P1_2S3
+     {
+         wait2P1_2S3.ActorProperties
+         {
+             MMID = 78
+             GlobalID = 64226938-89b2-429a-b14d-a68371149572
+             CPTypeString = UnknownRTKNode
+             ActorType = 3
+             ActorTypeString = PortalActor
+             MMVersionString = 7.0.5.0
+             Entrance = 1
+             Exit = 1
+             SpawnAngleOffset = 0
+             DistributionType = 0
+             ActionEnter_ID = -1
+             ActionWaypoint_ID = -1
+         }
+     }
+     traindoor6P2S3
+     {
+         traindoor6P2S3.ActorProperties
+         {
+             MMID = 70
+             GlobalID = 15823a5c-b24f-4bad-95ed-1a72a8a84a17
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor2P1S3
+     {
+         traindoor2P1S3.ActorProperties
+         {
+             MMID = 71
+             GlobalID = ad65926a-eee6-49dd-84a2-e07c16ea3862
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor3P1S3
+     {
+         traindoor3P1S3.ActorProperties
+         {
+             MMID = 72
+             GlobalID = 2eab6401-20cc-4b19-af2a-718cf6a2d175
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor4P1S3
+     {
+         traindoor4P1S3.ActorProperties
+         {
+             MMID = 73
+             GlobalID = 04e434f9-cec1-4a91-aad3-75d17267133d
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor5P1S3
+     {
+         traindoor5P1S3.ActorProperties
+         {
+             MMID = 74
+             GlobalID = e6813579-12a9-44b1-b235-a7bc32deda8d
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor6P1S3
+     {
+         traindoor6P1S3.ActorProperties
+         {
+             MMID = 75
+             GlobalID = b9a92fd5-05f2-45c5-b2a8-a15c3a683ed9
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor2P2S3
+     {
+         traindoor2P2S3.ActorProperties
+         {
+             MMID = 88
+             GlobalID = 401a7b86-d5f6-4e99-b410-cef5737003ca
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor1P2S3
+     {
+         traindoor1P2S3.ActorProperties
+         {
+             MMID = 90
+             GlobalID = 81a36602-5008-4bdf-b89b-2fe079fafb7f
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor1P1S3
+     {
+         traindoor1P1S3.ActorProperties
+         {
+             MMID = 91
+             GlobalID = 995f704d-f3fd-4995-9cfe-3699823af8b1
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor3P2S3
+     {
+         traindoor3P2S3.ActorProperties
+         {
+             MMID = 64
+             GlobalID = 543959b0-f3b6-4bb0-beaf-1eadfceed51e
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor4P2S3
+     {
+         traindoor4P2S3.ActorProperties
+         {
+             MMID = 65
+             GlobalID = dab9a9e3-3fa6-49f1-930f-deab49836103
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     traindoor5P2S3
+     {
+         traindoor5P2S3.ActorProperties
+         {
+             MMID = 68
+             GlobalID = e1bcc62d-cc55-4370-9c5e-a289a8a878cf
+             CPTypeString = UnknownRTKNode
+             ActorType = 4
+             ActorTypeString = LinkActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution1cm
+             AgentBodyRadiusEnabled = true
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.01
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 1.02
+             AgentSpeedMaxFlatOrDown = 1.02
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 20
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 2
+             OmegaGoalLineWidth = 2
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 1
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 1
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 200
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = false
+         }
+     }
+     stairsS3
+     {
+         stairsS3.ActorProperties
+         {
+             MMID = 85
+             GlobalID = 8842d30d-5e76-44f8-a7fd-96a0ec261a2e
+             CPTypeString = UnknownRTKNode
+             ActorType = 6
+             ActorTypeString = StairActor
+             MMVersionString = 7.0.5.0
+             SurfaceMapResolution = SurfaceMapResolution10cm
+             AgentBodyRadiusEnabled = false
+             AgentBodyRadiusDisabledByUser = false
+             AgentBodyRadius = 0.2
+             AgentBodyRadiusApproachDistance = 0
+             AgentSpeedMaxEnabled = 0
+             AgentSpeedMaxUp = 0.24
+             AgentSpeedMaxFlatOrDown = 0.64
+             SurfaceTravelType = 1
+             DirectionBiasOverrideEnabled = 0
+             DirectionBias = 1
+             Unidirectional = 0
+             Direction = 0
+             DelayInTimeEnabled = false
+             DelayInTimeDist_Type = 0
+             DelayInTimeDist_Val1 = 0
+             DelayInTimeDist_Val2 = 0
+             DelayInTimeDist_Val3 = 0
+             DelayInTimeDist_Val4 = 0
+             DelayOutTimeEnabled = false
+             DelayOutTimeDist_Type = 0
+             DelayOutTimeDist_Val1 = 0
+             DelayOutTimeDist_Val2 = 0
+             DelayOutTimeDist_Val3 = 0
+             DelayOutTimeDist_Val4 = 0
+             DistancePenalty = 0
+             QueuePenaltyFactor = 1
+             GoalLineLengthOffset = 0.2
+             GoalLineWidthOffset = 0.2
+             SpecifyGoalLineWidth = 0
+             AlphaGoalLineWidth = 9
+             OmegaGoalLineWidth = 9
+             UseWaitZone = 0
+             WaitZoneList = 1
+             WaitHoldGroundFactor = 0.5
+             WaitLOSDensity = 0.5
+             GateControlType = 0
+             GateDelayAtRequest = 60
+             CFlowEnabled = 0
+             CFlowDisabledByUser = false
+             CFlowUseUnitRate = false
+             CFlowRate = 100
+             CFlowRateAlphaDisplay = 100
+             CFlowRateOmegaDisplay = 100
+             DirectionOppositeToConstruction = false
+             BankID = -1
+             BankDisplay = <None>
+             PerimeterIDGrid = GridData
+             PerimeterDisplay = -1
+             IsGated = 0
+             WaitStyle = WaitFocus
+             GateCommitWhenWaiting = false
+             GateClosedTimePenalty = 20
+             PriorityEnabled = 0
+             PriorityDirection = 0
+             PriorityCostWhenWaiting = 10
+             PriorityPrimaryYields = 0
+             PrioritySecondaryClearArea = 1
+             PriorityDistanceRange = 2
+             PriorityCommitWhenWaiting = 0
+             AlphaActionEnter_ID = -1
+             AlphaActionExit_ID = -1
+             OmegaActionEnter_ID = -1
+             OmegaActionExit_ID = -1
+             MarshalEnabled = true
+         }
+     }
+     handrail1S3
+     {
+         handrail1S3.ActorProperties
+         {
+             MMID = 80
+             GlobalID = 0f4fa87e-f4bf-4685-b559-7a570793560d
+             CPTypeString = UnknownRTKNode
+             ActorType = 8
+             ActorTypeString = BarrierActor
+             MMVersionString = 7.0.5.0
+         }
+     }
+     handrail2S3
+     {
+         handrail2S3.ActorProperties
+         {
+             MMID = 81
+             GlobalID = 35591946-0145-4a0d-be78-e5483091afac
+             CPTypeString = UnknownRTKNode
+             ActorType = 8
+             ActorTypeString = BarrierActor
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Aqua_LowPoly
+     {
+         Aqua_LowPoly.ActorProperties
+         {
+             MMID = 49
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.478
+             ConeColor_G = 0.688
+             ConeColor_B = 0.823
+             ConeColor_A = 1
+             GlobalID = a0724b01-b126-4ca3-9e43-d1292ef6258c
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Blue_LowPoly
+     {
+         Blue_LowPoly.ActorProperties
+         {
+             MMID = 50
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.075
+             ConeColor_G = 0.287
+             ConeColor_B = 1
+             ConeColor_A = 1
+             GlobalID = 46820139-df06-4ef2-aaac-c682333e511f
+             MMVersionString = 7.0.5.0
+         }
+     }
+     DarkGreen_LowPoly
+     {
+         DarkGreen_LowPoly.ActorProperties
+         {
+             MMID = 51
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.103
+             ConeColor_G = 0.419
+             ConeColor_B = 0
+             ConeColor_A = 1
+             GlobalID = d98c76b4-73ed-4dad-8c86-03a5c5867ba3
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Green_LowPoly
+     {
+         Green_LowPoly.ActorProperties
+         {
+             MMID = 52
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.333
+             ConeColor_G = 0.753
+             ConeColor_B = 0.067
+             ConeColor_A = 1
+             GlobalID = 94a4b5e8-30f5-485f-a091-fa51093cdf84
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Mauve_LowPoly
+     {
+         Mauve_LowPoly.ActorProperties
+         {
+             MMID = 53
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.893
+             ConeColor_G = 0
+             ConeColor_B = 1
+             ConeColor_A = 1
+             GlobalID = 7001bc71-f570-4c7a-a506-034a282b8440
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Ocre_LowPoly
+     {
+         Ocre_LowPoly.ActorProperties
+         {
+             MMID = 54
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.653
+             ConeColor_G = 0.579
+             ConeColor_B = 0.325
+             ConeColor_A = 1
+             GlobalID = cafeea98-840a-485c-bb05-6e4cf4c716f8
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Orange_LowPoly
+     {
+         Orange_LowPoly.ActorProperties
+         {
+             MMID = 55
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.924
+             ConeColor_G = 0.597
+             ConeColor_B = 0.157
+             ConeColor_A = 1
+             GlobalID = e4578e87-3607-4ceb-97d8-c3435248e105
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Pink_LowPoly
+     {
+         Pink_LowPoly.ActorProperties
+         {
+             MMID = 56
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.962
+             ConeColor_G = 0.766
+             ConeColor_B = 0.938
+             ConeColor_A = 1
+             GlobalID = ca21ac67-1311-40b3-8156-1f124a2426c1
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Red_LowPoly
+     {
+         Red_LowPoly.ActorProperties
+         {
+             MMID = 57
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.8
+             ConeColor_G = 0.086
+             ConeColor_B = 0.05
+             ConeColor_A = 1
+             GlobalID = fa75fe6e-eb1e-45f2-9e12-0dc1deafaaa4
+             MMVersionString = 7.0.5.0
+         }
+     }
+     Yellow_LowPoly
+     {
+         Yellow_LowPoly.ActorProperties
+         {
+             MMID = 58
+             CPTypeString = AgentAvatarRTKNode
+             ActorType = 12
+             ActorTypeString = AgentAvatar
+             HideRenderMaster = false
+             ConeColor_R = 0.921
+             ConeColor_G = 0.852
+             ConeColor_B = 0.014
+             ConeColor_A = 1
+             GlobalID = bf011a30-342f-49fa-9185-f4886b7de130
+             MMVersionString = 7.0.5.0
+         }
+     }
+}
