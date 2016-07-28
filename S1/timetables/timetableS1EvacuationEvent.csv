@@ -1,0 +1,9 @@
+Reference Event Name,Time Offset,Duration,Apply only to Reference Event,Key Token,Target Zone,Pre Movement Duration,Location,Give Tokens...
+train0line1ArrivingP2S1,0:00:15,,,trainTicketP2,,,trainSeatsP2,
+train0line2ArrivingP1S1,0:00:15,,,trainTicketP1,,,trainSeatsP1,
+train1line1ArrivingP2S1,0:00:15,,,trainTicketP2,,,trainSeatsP2,
+train1line2ArrivingP1S1,0:00:15,,,trainTicketP1,,,trainSeatsP1,
+train2line1ArrivingP2S1,0:00:15,,,trainTicketP2,,,trainSeatsP2,
+train2line2ArrivingP1S1,0:00:15,,,trainTicketP1,,,trainSeatsP1,
+train3line2ArrivingP1S1,0:00:15,,,trainTicketP1,,,trainSeatsP1,
+train3line1ArrivingP2S1,0:00:15,,,trainTicketP2,,,trainSeatsP2,

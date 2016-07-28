@@ -1,0 +1,112 @@
+[VERBOSE] Creating project for simulation took 0.032 seconds.
+[VERBOSE] WorkManager initialized: using unlimited threads (likely 4).
+[VERBOSE] Using default profile DefaultProfile with ID 75
+[VERBOSE] Compiling project for simulation took 0.008 seconds.
+[VERBOSE] Obstacle map construction took 0.324 seconds.
+[VERBOSE] Approach map construction took 8.637 seconds.
+[VERBOSE] Building cost tree for GoalPortal:wait3P1_2S1
+[VERBOSE] Building cost tree for GoalPortal:seats1P1S1
+[VERBOSE] Building cost tree for GoalPortal:seats2P1S1
+[VERBOSE] Building cost tree for GoalPortal:gate1S1
+[VERBOSE] Building cost tree for GoalPortal:wait1P1_2S1
+[VERBOSE] Building cost tree for GoalEvacZone:trainP1
+[VERBOSE] Building cost tree for GoalPortal:seats2P2S1
+[VERBOSE] Building cost tree for GoalEvacZone:trainP2
+[VERBOSE] Building cost tree for GoalPortal:seats1P2S1
+[VERBOSE] Building cost tree for GoalPortal:wait2P1_2S1
+[VERBOSE] Building cost tree for GoalPortal:seats3P2S1
+[VERBOSE] Building cost tree for GoalPortal:seats3P1S1
+[VERBOSE] Building cost tree for GoalPortal:gate2S1
+[VERBOSE] Cost tree construction took 0.001 seconds.
+[VERBOSE] General network initialization took 8.962 seconds.
+[VERBOSE] Sim State: Ready To Simulate.
+[INFO] Results will be placed in: ../s1/../s1/output/
+[VERBOSE] Sim State: Running.
+[VERBOSE] Date: Wednesday, July 27, 2016
+.
+[INFO] Simulation started (02:54:00 -> 03:30:00).
+. .
+. . .
+[INFO] Clock: 02:55:00, Pop: 0, Created: 0, (split: 2.392s, total: 2.392s)
+[INFO] Clock: 02:56:00, Pop: 0, Created: 0, (split: 2.4s, total: 4.792s)
+[INFO] Clock: 02:57:00, Pop: 0, Created: 0, (split: 2.4s, total: 7.192s)
+[INFO] Clock: 02:58:00, Pop: 15, Created: 15, (split: 2.401s, total: 9.593s)
+[INFO] Clock: 02:59:00, Pop: 45, Created: 45, (split: 2.4s, total: 11.993s)
+[INFO] Clock: 03:00:00, Pop: 90, Created: 90, (split: 2.402s, total: 14.395s)
+[INFO] Clock: 03:01:00, Pop: 120, Created: 120, (split: 2.4s, total: 16.795s)
+[INFO] Clock: 03:02:00, Pop: 150, Created: 150, (split: 2.402s, total: 19.197s)
+[INFO] Clock: 03:03:00, Pop: 210, Created: 210, (split: 2.402s, total: 21.599s)
+[INFO] Clock: 03:04:00, Pop: 485, Created: 525, (split: 3.252s, total: 24.851s)
+[INFO] Clock: 03:05:00, Pop: 514, Created: 600, (split: 2.839s, total: 27.69s)
+[INFO] Clock: 03:06:00, Pop: 549, Created: 660, (split: 2.561s, total: 30.251s)
+[INFO] Clock: 03:07:00, Pop: 607, Created: 720, (split: 2.754s, total: 33.005s)
+[INFO] Clock: 03:08:00, Pop: 686, Created: 929, (split: 4.791s, total: 37.796s)
+[INFO] Clock: 03:09:00, Pop: 854, Created: 1229, (split: 7.458s, total: 45.254s)
+[INFO] Clock: 03:10:00, Pop: 899, Created: 1304, (split: 7.133s, total: 52.387s)
+[INFO] Clock: 03:11:00, Pop: 945, Created: 1379, (split: 7.379s, total: 59.766s)
+[INFO] Clock: 03:12:00, Pop: 993, Created: 1573, (split: 9.456s, total: 69.223s)
+[INFO] Clock: 03:13:00, Pop: 1067, Created: 1648, (split: 9.467s, total: 78.69s)
+[INFO] Clock: 03:14:00, Pop: 1326, Created: 1963, (split: 13.375s, total: 92.065s)
+[INFO] Clock: 03:15:00, Pop: 1416, Created: 2068, (split: 14.683s, total: 106.748s)
+[INFO] Clock: 03:16:00, Pop: 1558, Created: 2262, (split: 17.102s, total: 123.85s)
+[INFO] Clock: 03:17:00, Pop: 1581, Created: 2292, (split: 18.108s, total: 141.958s)
+[INFO] Clock: 03:18:00, Pop: 1610, Created: 2322, (split: 18.608s, total: 160.566s)
+[INFO] Clock: 03:19:00, Pop: 1870, Created: 2696, (split: 23.517s, total: 184.083s)
+[INFO] Clock: 03:20:00, Pop: 1840, Created: 2696, (split: 23.515s, total: 207.598s)
+[INFO] Clock: 03:21:00, Pop: 1840, Created: 2696, (split: 23.611s, total: 231.209s)
+[INFO] Clock: 03:22:00, Pop: 1840, Created: 2696, (split: 23.682s, total: 254.892s)
+[INFO] Clock: 03:23:00, Pop: 1840, Created: 2696, (split: 23.294s, total: 278.186s)
+[INFO] Clock: 03:24:00, Pop: 1839, Created: 2696, (split: 22.878s, total: 301.064s)
+[INFO] Clock: 03:25:00, Pop: 1839, Created: 2696, (split: 22.423s, total: 323.487s)
+[INFO] Clock: 03:26:00, Pop: 1839, Created: 2696, (split: 22.202s, total: 345.689s)
+[INFO] Clock: 03:27:00, Pop: 1821, Created: 2696, (split: 22.408s, total: 368.097s)
+[INFO] Clock: 03:28:00, Pop: 1820, Created: 2696, (split: 22.179s, total: 390.276s)
+[INFO] Clock: 03:29:00, Pop: 1820, Created: 2696, (split: 22.021s, total: 412.297s)
+[INFO] Clock: 03:30:00, Pop: 1808, Created: 2696, (split: 21.577s, total: 433.874s)
+[INFO] Simulation data is being recorded to database. Please wait...
+[INFO] Simulation data successfully recorded.
+. . .
+. .
+[INFO] Simulation stopped.
+.
+[INFO] Agents Created		: 2696
+[INFO] Agents Completed With Success	: 888
+[INFO] Agents Removed With Errors	: 0
+[INFO] Agents Still In Sim		: 1808
+[INFO] Duration (Sim Time)		: 00:36:00 (2160 seconds)
+[INFO] Duration (Real Time)		: 00:07:14 (434.534 seconds)
+[INFO] Date Completed 		: 17:46:54, Wednesday, July 27, 2016
+[INFO] MassMotion Version		: 7.0.5.0
+
+[VERBOSE] Performance Details:
+[VERBOSE] Measured Time		: 433.879
+[VERBOSE] Component Times	: 413.171
+[VERBOSE]            Update Factories (s): 	0.166	(0.04%)
+[VERBOSE]        Create/Delete Agents (s): 	0.211	(0.05%)
+[VERBOSE]          Agent Spatial Hash (s): 	22.794	(5.52%)
+[VERBOSE]           Cache Agent State (t): 	12.481	(3.02%)
+[VERBOSE]       Find Agent Neighbours (t): 	175.452	(42.46%)
+[VERBOSE]               Update Events (t): 	0.117	(0.03%)
+[VERBOSE]                 Frame Begin (s): 	0.643	(0.16%)
+[VERBOSE]               Execute Tasks (t): 	31.241	(7.56%)
+[VERBOSE]               Update Queues (t): 	3.765	(0.91%)
+[VERBOSE]          Update Controllers (s): 	0.104	(0.03%)
+[VERBOSE]       Update Process Chains (s): 	0.004	(0%)
+[VERBOSE]                 Move Agents (t): 	108.824	(26.34%)
+[VERBOSE]       Correct Agent Overlap (s): 	28.393	(6.87%)
+[VERBOSE]        Correct Agent Height (t): 	5.677	(1.37%)
+[VERBOSE]              Write Database (s): 	11.469	(2.78%)
+[VERBOSE]              Process Agents (s): 	2.204	(0.53%)
+[VERBOSE]        Assess Task Progress (s): 	5.784	(1.4%)
+[VERBOSE]                   Frame End (s): 	3.059	(0.74%)
+[VERBOSE]                   Write CSV (s): 	0.776	(0.19%)
+[VERBOSE]                   Write ICE (s): 	0.007	(0%)
+[VERBOSE]     * t = threaded, s = serial
+[VERBOSE] 
+[VERBOSE] Total agent frames recorded to disk: 11,271,798
+
+[VERBOSE] Sim State: Done Simulating.
+[INFO] Simulation data may now be reviewed and analysed in the main window.
+[INFO] Simulation window may be safely closed.
+
+[VERBOSE] Sim State: Empty.
