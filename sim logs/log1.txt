@@ -1,0 +1,194 @@
+P1 S5 03:00:00 03:05:00  P1S5
+[['train0line4ArrivingP1S5', '03:00:00', '0:00:45', 'trainSeatsP1', '', '']]
+['1st stop', 'P1S5', '03:00:00', 'slimRem', 100, 'defRem', 100, 'fatRem', 100]
+['crn stop', 'P1S5', '03:00:00', 'slimAlight', 50, 'defAlight', 50, 'fatAlight', 50]
+
+
+P1 S3 03:01:00 03:04:00  P1S3
+[['train0line2ArrivingP1S3', '03:01:00', '0:00:45', 'trainSeatsP1', '', '']]
+['1st stop', 'P1S3', '03:01:00', 'slimRem', 100, 'defRem', 100, 'fatRem', 100]
+['crn stop', 'P1S3', '03:01:00', 'slimAlight', 50, 'defAlight', 50, 'fatAlight', 50]
+
+
+P2 S4 03:01:00 03:04:00  P2S4
+[['train0line3ArrivingP2S4', '03:01:00', '0:00:45', 'trainSeatsP2', '', '']]
+['1st stop', 'P2S4', '03:01:00', 'slimRem', 100, 'defRem', 100, 'fatRem', 100]
+['crn stop', 'P2S4', '03:01:00', 'slimAlight', 50, 'defAlight', 50, 'fatAlight', 50]
+
+
+P2 S1 03:03:00 03:07:00  P1S1
+[['train0line1ArrivingP2S1', '03:03:00', '0:00:45', 'trainSeatsP2', '', '']]
+['1st stop', 'P2S1', '03:03:00', 'slimRem', 100, 'defRem', 100, 'fatRem', 100]
+['crn stop', 'P2S1', '03:03:00', 'slimAlight', 70, 'defAlight', 90, 'fatAlight', 80]
+
+
+P4 S2 03:04:00 03:05:00  P1S2
+[['train0line3ArrivingP4S2', '03:04:00', '0:00:45', 'trainSeatsP4', '', '']]
+['mid stop', 'P4S2', '03:04:00', 'slimRem', 50, 'defRem', 50, 'fatRem', 50]
+['P2S4', 10860, 'slimPrevBrd', 41, 'defPrevBrd', 39, 'fatPrevBrd', 26]
+['crn stop', 'P4S2', '03:04:00', 'slimAlight', 46, 'defAlight', 45, 'fatAlight', 38]
+
+
+P1 S3 03:04:00 03:07:00  P1S3
+[['train1line2ArrivingP1S3', '03:04:00', '0:00:45', 'trainSeatsP1', '', '']]
+['1st stop', 'P1S3', '03:04:00', 'slimRem', 50, 'defRem', 50, 'fatRem', 50]
+['crn stop', 'P1S3', '03:04:00', 'slimAlight', 25, 'defAlight', 25, 'fatAlight', 25]
+
+
+P2 S4 03:04:00 03:07:00  P2S4
+[['train1line3ArrivingP2S4', '03:04:00', '0:00:45', 'trainSeatsP2', '', '']]
+['1st stop', 'P2S4', '03:04:00', 'slimRem', 46, 'defRem', 45, 'fatRem', 38]
+['crn stop', 'P2S4', '03:04:00', 'slimAlight', 23, 'defAlight', 23, 'fatAlight', 19]
+
+
+P1 S2 03:05:00 03:05:00  P3S2
+[['train0line2ArrivingP1S2', '03:05:00', '0:00:45', 'trainSeatsP1', '', '']]
+['mid stop', 'P1S2', '03:05:00', 'slimRem', 25, 'defRem', 25, 'fatRem', 25]
+['P1S3', 10860, 'slimPrevBrd', 45, 'defPrevBrd', 31, 'fatPrevBrd', 21]
+['crn stop', 'P1S2', '03:05:00', 'slimAlight', 35, 'defAlight', 28, 'fatAlight', 23]
+
+
+P3 S2 03:05:00 03:08:00  P2S2
+[['train0line4ArrivingP3S2', '03:05:00', '0:00:45', 'trainSeatsP3', '', '']]
+['mid stop', 'P3S2', '03:05:00', 'slimRem', 50, 'defRem', 50, 'fatRem', 50]
+['P1S5', 10800, 'slimPrevBrd', 49, 'defPrevBrd', 45, 'fatPrevBrd', 21]
+['crn stop', 'P3S2', '03:05:00', 'slimAlight', 50, 'defAlight', 48, 'fatAlight', 36]
+
+
+P1 S5 03:05:00 03:10:00  P1S5
+[['train1line4ArrivingP1S5', '03:05:00', '0:00:45', 'trainSeatsP1', '', '']]
+['1st stop', 'P1S5', '03:05:00', 'slimRem', 50, 'defRem', 48, 'fatRem', 36]
+['crn stop', 'P1S5', '03:05:00', 'slimAlight', 25, 'defAlight', 24, 'fatAlight', 18]
+
+
+P1 S1 03:07:00 03:08:00  P2S1
+[['train0line2ArrivingP1S1', '03:07:00', '0:00:45', 'trainSeatsP1', '', '']]
+['mid stop', 'P1S1', '03:07:00', 'slimRem', 35, 'defRem', 28, 'fatRem', 23]
+['P1S2', 11100, 'slimPrevBrd', 57, 'defPrevBrd', 55, 'fatPrevBrd', 37]
+['crn stop', 'P1S1', '03:07:00', 'slimAlight', 46, 'defAlight', 42, 'fatAlight', 30]
+
+
+P1 S3 03:07:00 03:10:00  P1S3
+[['train2line2ArrivingP1S3', '03:07:00', '0:00:45', 'trainSeatsP1', '', '']]
+['1st stop', 'P1S3', '03:07:00', 'slimRem', 46, 'defRem', 42, 'fatRem', 30]
+['crn stop', 'P1S3', '03:07:00', 'slimAlight', 23, 'defAlight', 21, 'fatAlight', 15]
+
+
+P2 S4 03:07:00 03:10:00  P2S4
+[['train2line3ArrivingP2S4', '03:07:00', '0:00:45', 'trainSeatsP2', '', '']]
+['1st stop', 'P2S4', '03:07:00', 'slimRem', 23, 'defRem', 23, 'fatRem', 19]
+['crn stop', 'P2S4', '03:07:00', 'slimAlight', 12, 'defAlight', 12, 'fatAlight', 10]
+
+
+P2 S1 03:08:00 03:11:00  P1S1
+[['train1line1ArrivingP2S1', '03:08:00', '0:00:45', 'trainSeatsP2', '', '']]
+['1st stop', 'P2S1', '03:08:00', 'slimRem', 30, 'defRem', 10, 'fatRem', 20]
+['crn stop', 'P2S1', '03:08:00', 'slimAlight', 21, 'defAlight', 9, 'fatAlight', 16]
+
+
+P2 S2 03:08:00 03:08:00  P4S2
+[['train0line1ArrivingP2S2', '03:08:00', '0:00:45', 'trainSeatsP2', '', '']]
+['mid stop', 'P2S2', '03:08:00', 'slimRem', 9, 'defRem', 1, 'fatRem', 4]
+['P2S1', 10980, 'slimPrevBrd', 8, 'defPrevBrd', 1, 'fatPrevBrd', 17]
+['crn stop', 'P2S2', '03:08:00', 'slimAlight', 17, 'defAlight', 1, 'fatAlight', 2]
+
+
+P4 S2 03:08:00 03:09:00  P1S2
+[['train1line3ArrivingP4S2', '03:08:00', '0:00:45', 'trainSeatsP4', '', '']]
+['mid stop', 'P4S2', '03:08:00', 'slimRem', 12, 'defRem', 12, 'fatRem', 10]
+['P2S4', 11040, 'slimPrevBrd', 59, 'defPrevBrd', 50, 'fatPrevBrd', 35]
+['crn stop', 'P4S2', '03:08:00', 'slimAlight', 36, 'defAlight', 31, 'fatAlight', 23]
+
+
+P1 S2 03:09:00 03:11:00  P3S2
+[['train1line2ArrivingP1S2', '03:09:00', '0:00:45', 'trainSeatsP1', '', '']]
+['mid stop', 'P1S2', '03:09:00', 'slimRem', 23, 'defRem', 21, 'fatRem', 15]
+['P1S3', 11040, 'slimPrevBrd', 64, 'defPrevBrd', 46, 'fatPrevBrd', 31]
+['crn stop', 'P1S2', '03:09:00', 'slimAlight', 44, 'defAlight', 34, 'fatAlight', 23]
+
+
+P1 S3 03:10:00 03:12:00  P2S3
+[['train3line2ArrivingP1S3', '03:10:00', '0:00:45', 'trainSeatsP1', '', '']]
+['1st stop', 'P1S3', '03:10:00', 'slimRem', 44, 'defRem', 34, 'fatRem', 23]
+['crn stop', 'P1S3', '03:10:00', 'slimAlight', 22, 'defAlight', 17, 'fatAlight', 12]
+
+
+P2 S4 03:10:00 03:13:00  P1S4
+[['train3line3ArrivingP2S4', '03:10:00', '0:00:45', 'trainSeatsP2', '', '']]
+['1st stop', 'P2S4', '03:10:00', 'slimRem', 36, 'defRem', 31, 'fatRem', 23]
+['crn stop', 'P2S4', '03:10:00', 'slimAlight', 18, 'defAlight', 16, 'fatAlight', 12]
+
+
+P1 S5 03:10:00 03:10:00  P2S5
+[['train2line4ArrivingP1S5', '03:10:00', '0:00:45', 'trainSeatsP1', '', '']]
+['1st stop', 'P1S5', '03:10:00', 'slimRem', 25, 'defRem', 24, 'fatRem', 18]
+['crn stop', 'P1S5', '03:10:00', 'slimAlight', 13, 'defAlight', 12, 'fatAlight', 9]
+
+
+P2 S5 03:10:00 03:14:00  P2S5
+[['train0line3ArrivingP2S5', '03:10:00', '0:00:45', 'trainSeatsP2', '', '']]
+['mid stop', 'P2S5', '03:10:00', 'slimRem', 18, 'defRem', 16, 'fatRem', 12]
+['P4S2', 11040, 'slimPrevBrd', 63, 'defPrevBrd', 47, 'fatPrevBrd', 21]
+['crn stop', 'P2S5', '03:10:00', 'slimAlight', 41, 'defAlight', 32, 'fatAlight', 17]
+
+
+P1 S1 03:11:00 03:13:00  P2S1
+[['train1line2ArrivingP1S1', '03:11:00', '0:00:45', 'trainSeatsP1', '', '']]
+['mid stop', 'P1S1', '03:11:00', 'slimRem', 22, 'defRem', 17, 'fatRem', 12]
+['P1S2', 11340, 'slimPrevBrd', 67, 'defPrevBrd', 45, 'fatPrevBrd', 26]
+['crn stop', 'P1S1', '03:11:00', 'slimAlight', 45, 'defAlight', 31, 'fatAlight', 19]
+
+
+P3 S2 03:11:00 03:11:00  P4S2
+[['train1line4ArrivingP3S2', '03:11:00', '0:00:45', 'trainSeatsP3', '', '']]
+['mid stop', 'P3S2', '03:11:00', 'slimRem', 13, 'defRem', 12, 'fatRem', 9]
+['P1S5', 11100, 'slimPrevBrd', 48, 'defPrevBrd', 51, 'fatPrevBrd', 48]
+['crn stop', 'P3S2', '03:11:00', 'slimAlight', 31, 'defAlight', 32, 'fatAlight', 29]
+
+
+P4 S2 03:11:00 03:12:00  P1S2
+[['train2line3ArrivingP4S2', '03:11:00', '0:00:45', 'trainSeatsP4', '', '']]
+['mid stop', 'P4S2', '03:11:00', 'slimRem', 41, 'defRem', 32, 'fatRem', 17]
+['P2S4', 11220, 'slimPrevBrd', 54, 'defPrevBrd', 58, 'fatPrevBrd', 57]
+['crn stop', 'P4S2', '03:11:00', 'slimAlight', 48, 'defAlight', 45, 'fatAlight', 37]
+
+
+P1 S2 03:12:00 03:13:00  P2S2
+[['train2line2ArrivingP1S2', '03:12:00', '0:00:45', 'trainSeatsP1', '', '']]
+['mid stop', 'P1S2', '03:12:00', 'slimRem', 45, 'defRem', 31, 'fatRem', 19]
+['P1S3', 11220, 'slimPrevBrd', 75, 'defPrevBrd', 84, 'fatPrevBrd', 59]
+['crn stop', 'P1S2', '03:12:00', 'slimAlight', 60, 'defAlight', 58, 'fatAlight', 39]
+
+
+P2 S3 03:12:00 03:17:00  P2S3
+[['train0line1ArrivingP2S3', '03:12:00', '0:00:45', 'trainSeatsP2', '', '']]
+['mid stop', 'P2S3', '03:12:00', 'slimRem', 0, 'defRem', 1, 'fatRem', 19]
+['P2S2', 11280, 'slimPrevBrd', 71, 'defPrevBrd', 67, 'fatPrevBrd', 57]
+['crn stop', 'P2S3', '03:12:00', 'slimAlight', 71, 'defAlight', 20, 'fatAlight', 76]
+
+
+P2 S1 03:13:00 03:15:00  P1S1
+[['train2line1ArrivingP2S1', '03:13:00', '0:00:45', 'trainSeatsP2', '', '']]
+['1st stop', 'P2S1', '03:13:00', 'slimRem', 0, 'defRem', 48, 'fatRem', 0]
+['crn stop', 'P2S1', '03:13:00', 'slimAlight', 0, 'defAlight', 43, 'fatAlight', 0]
+
+
+P2 S2 03:13:00 03:14:00  P4S2
+[['train1line1ArrivingP2S2', '03:13:00', '0:00:45', 'trainSeatsP2', '', '']]
+['mid stop', 'P2S2', '03:13:00', 'slimRem', 0, 'defRem', 5, 'fatRem', 0]
+['P2S1', 11280, 'slimPrevBrd', 56, 'defPrevBrd', 53, 'fatPrevBrd', 38]
+['crn stop', 'P2S2', '03:13:00', 'slimAlight', 56, 'defAlight', 23, 'fatAlight', 4]
+
+
+P1 S4 03:13:00 03:18:00  P1S4
+[['train0line4ArrivingP1S4', '03:13:00', '0:00:45', 'trainSeatsP1', '', '']]
+['mid stop', 'P1S4', '03:13:00', 'slimRem', 31, 'defRem', 32, 'fatRem', 29]
+['P3S2', 11100, 'slimPrevBrd', 54, 'defPrevBrd', 43, 'fatPrevBrd', 28]
+['crn stop', 'P1S4', '03:13:00', 'slimAlight', 43, 'defAlight', 38, 'fatAlight', 29]
+
+
+P4 S2 03:14:00 03:15:00  P1S2
+[['train3line3ArrivingP4S2', '03:14:00', '0:00:45', 'trainSeatsP4', '', '']]
+['mid stop', 'P4S2', '03:14:00', 'slimRem', 48, 'defRem', 45, 'fatRem', 37]
+['P2S4', 11400, 'slimPrevBrd', 24, 'defPrevBrd', 26, 'fatPrevBrd', 26]
+['crn stop', 'P4S2', '03:14:00', 'slimAlight', 36, 'defAlight', 36, 'fatAlight', 32]

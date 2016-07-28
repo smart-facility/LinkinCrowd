@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes" ?>
+<!--This file was automatically generated.  Manual changes will be overwritten on the next export.  Note v=value, t=type (0=bool, 1=int, 2=double, 3=string, 4=uint).-->
+<Project FormatVersion="1" ContentVersion="7.0.5.0" FileName="">
+    <EMDL v="C:\Users\nhuynh\workingDirectory\rTopics\crowdsim\myMMworks\prototype linkedStations\newStation5\newStation5.emdl" t="3" />
+    <ExportDate v="17:57:29, Friday, April 01, 2016" t="3" />
+    <ExportPath v="C:/Users/nhuynh/workingDirectory/rTopics/crowdsim/myMMworks/prototype linkedStations/newStation5/" t="3" />
+    <MassMotionVersion v="7.0.5.0" t="3" />
+    <References>
+        <AgentScheduleFile v="AgentSchedule.xml" t="3" />
+        <EventScheduleFile v="EventSchedule.xml" t="3" />
+        <TimetablePath v="timetables" t="3" />
+        <WorldGeometryFile v="WorldGeometry.dae" t="3" />
+        <WorldPropertiesFile v="WorldProperties.xml" t="3" />
+    </References>
+    <Settings>
+        <Agents>
+            <DefaultProfileGlobalID v="a83e5662-81c5-4e8d-9823-a6e9fb979967" t="3" />
+            <DefaultProfileID v="173" t="1" />
+            <MovementStandard v="MovementStandardFruin" t="3" />
+        </Agents>
+        <Camera>
+            <FOV v="0.489949" t="2" />
+            <Orientation v="[-0.187303,-0.187303,-0.036408,0.963592]" t="2" />
+            <Position v="[-30.000000,34.000000,73.000000]" t="2" />
+        </Camera>
+        <Debug>
+            <DumpCostTrees v="0" t="0" />
+            <DumpSurfaceMaps v="0" t="0" />
+        </Debug>
+        <ExportVersion v="7.0.5.0" t="3" />
+        <MaxReservedObjectID v="262" t="1" />
+        <Reporting>
+            <ICECacheWindowDuration v="00:12:00" t="3" />
+            <ICECacheWindowStart v="02:53:00" t="3" />
+            <QueueAverageReportPeriod v="30" t="1" />
+            <QueueAverageWindowSize v="60" t="1" />
+            <RecordFloorJourneyTime v="0" t="0" />
+            <RecordICECache v="0" t="0" />
+            <RecordQueueAverageOnLinks v="0" t="0" />
+            <RecordQueueAverageOnServers v="0" t="0" />
+            <RecordTokenJourneyTime v="0" t="0" />
+            <SamplePeriod v="5.000000" t="2" />
+            <SpeedCongestionFactor v="0.880000" t="2" />
+            <UseICECacheWindow v="0" t="0" />
+        </Reporting>
+        <Runtime>
+            <FrameRate v="5" t="1" />
+            <MaxDuration v="00:12:00" t="3" />
+            <PopulationMultiplier v="1.000000" t="2" />
+            <RandomSeed v="1234" t="1" />
+            <StartTime v="02:53:00" t="3" />
+        </Runtime>
+        <Vis>
+            <BackgroundColor v="[0.400000,0.400000,0.400000,1.000000]" t="2" />
+        </Vis>
+    </Settings>
+    <XSIVersion v="13.0.114.0" t="3" />
+</Project>

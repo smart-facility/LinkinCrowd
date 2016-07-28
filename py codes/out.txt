@@ -1,0 +1,192 @@
+MMProperties
+   Key
+   Value
+ObjectDB
+   GlobalID
+   ObjectID
+   ObjectName
+   ObjectType
+   ObjectSubType
+ActivityStatesRTree
+   UniqueID
+   AgentID
+   DummyAgentID
+   FirstFrame
+   LastFrame
+   ActivityState
+   DummyActivityState
+ActivityStatesRTree_node
+   nodeno
+   data
+ActivityStatesRTree_rowid
+   rowid
+   nodeno
+ActivityStatesRTree_parent
+   nodeno
+   parentnode
+AgentBoxesRTree
+   UniqueID
+   AgentID
+   DummyAgentID
+   FirstFrame
+   LastFrame
+   MinX
+   MaxX
+   MinY
+   MaxY
+   MinZ
+   MaxZ
+AgentBoxesRTree_node
+   nodeno
+   data
+AgentBoxesRTree_rowid
+   rowid
+   nodeno
+AgentBoxesRTree_parent
+   nodeno
+   parentnode
+AgentEndpoints
+   AgentID
+   StartActorID
+   EndActorID
+AgentInfo
+   AgentID
+   ProfileID
+   CreatorID
+   DesiredSpeed
+   DistanceTraveled
+AgentLifetimes
+   AgentID
+   FirstFrame
+   LastFrame
+AgentLifetimes_node
+   nodeno
+   data
+AgentLifetimes_rowid
+   rowid
+   nodeno
+AgentLifetimes_parent
+   nodeno
+   parentnode
+AvatarStatesRTree
+   UniqueID
+   AgentID
+   DummyAgentID
+   FirstFrame
+   LastFrame
+   AvatarID
+   DummyAvatarID
+AvatarStatesRTree_node
+   nodeno
+   data
+AvatarStatesRTree_rowid
+   rowid
+   nodeno
+AvatarStatesRTree_parent
+   nodeno
+   parentnode
+CurrentFloorStatesRTree
+   UniqueID
+   AgentID
+   DummyAgentID
+   FirstFrame
+   LastFrame
+   CurrentFloor
+   DummyCurrentFloor
+CurrentFloorStatesRTree_node
+   nodeno
+   data
+CurrentFloorStatesRTree_rowid
+   rowid
+   nodeno
+CurrentFloorStatesRTree_parent
+   nodeno
+   parentnode
+Frames
+   FrameNumber
+   FrameBlob
+GateStatesRTree
+   UniqueID
+   ActorID
+   DummyActorID
+   FirstFrame
+   LastFrame
+   GateState
+   DummyGateState
+GateStatesRTree_node
+   nodeno
+   data
+GateStatesRTree_rowid
+   rowid
+   nodeno
+GateStatesRTree_parent
+   nodeno
+   parentnode
+TargetActorStatesRTree
+   UniqueID
+   AgentID
+   DummyAgentID
+   FirstFrame
+   LastFrame
+   TargetActorID
+   DummyTargetActorID
+TargetActorStatesRTree_node
+   nodeno
+   data
+TargetActorStatesRTree_rowid
+   rowid
+   nodeno
+TargetActorStatesRTree_parent
+   nodeno
+   parentnode
+TokenPossessionsRTree
+   UniqueID
+   AgentID
+   DummyAgentID
+   FirstFrame
+   LastFrame
+   TokenID
+   DummyTokenID
+TokenPossessionsRTree_node
+   nodeno
+   data
+TokenPossessionsRTree_rowid
+   rowid
+   nodeno
+TokenPossessionsRTree_parent
+   nodeno
+   parentnode
+WaypointTimesRTree
+   UniqueID
+   AgentID
+   DummyAgentID
+   FirstFrame
+   LastFrame
+   TargetActorID
+   DummyTargetActorID
+WaypointTimesRTree_node
+   nodeno
+   data
+WaypointTimesRTree_rowid
+   rowid
+   nodeno
+WaypointTimesRTree_parent
+   nodeno
+   parentnode
+TimetableAgents
+   CreatorID
+   AgentID
+   FromReferenceEventTokenID
+   ToReferenceEventTokenID
+Population
+   FrameNumber
+   Duration
+   PopulationCount
+   AverageDensity
+Performance
+   ComponentID
+   FirstFrame
+   LastFrame
+   Duration
+   OperationCount
+   IsThreaded

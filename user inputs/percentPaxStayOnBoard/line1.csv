@@ -1,0 +1,10 @@
+stop,timeFrom,timeTo,passenger number,profile
+P2S1,0:00:00,23:59:59,0.3,slimFastActiv
+P2S1,0:00:00,23:59:59,0.1,DefaultProfile
+P2S1,0:00:00,23:59:59,0.2,fatSlowLazy
+P2S2,0:00:00,10:53:23,0.8,slimFastActiv
+P2S2,0:00:00,23:59:59,0.6,DefaultProfile
+P2S2,0:00:00,23:59:59,0.9,fatSlowLazy
+P2S3,0:01:00,23:59:59,0.4,slimFastActiv
+P2S3,0:00:00,20:59:59,0.7,DefaultProfile
+P2S3,0:00:00,23:59:59,0.5,fatSlowLazy
