@@ -1,0 +1,2 @@
+[INFO] MassMotion: Product is licensed by Oasys.
+MassMotion: Product is a full commercial version.

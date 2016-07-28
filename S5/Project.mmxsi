@@ -1,0 +1,56 @@
+<Project ContentVersion="7.0.5.0" FileName="" FormatVersion="1">
+    <EMDL t="3" v="C:\Users\nhuynh\workingDirectory\rTopics\crowdsim\myMMworks\prototypeLinkedStations\S5\newStation5.emdl" />
+    <ExportDate t="3" v="11:44:18, Wednesday, July 20, 2016" />
+    <ExportPath t="3" v="C:/Users/nhuynh/workingDirectory/rTopics/crowdsim/myMMworks/prototypeLinkedStations/S5/" />
+    <MassMotionVersion t="3" v="7.0.5.0" />
+    <References>
+        <AgentScheduleFile t="3" v="AgentSchedule.xml" />
+        <EventScheduleFile t="3" v="EventSchedule.xml" />
+        <TimetablePath t="3" v="timetables" />
+        <WorldGeometryFile t="3" v="WorldGeometry.dae" />
+        <WorldPropertiesFile t="3" v="WorldProperties.xml" />
+    </References>
+    <Settings>
+        <Agents>
+            <DefaultProfileGlobalID t="3" v="a83e5662-81c5-4e8d-9823-a6e9fb979967" />
+            <DefaultProfileID t="1" v="173" />
+            <MovementStandard t="3" v="MovementStandardFruin" />
+        </Agents>
+        <Camera>
+            <FOV t="2" v="0.489949" />
+            <Orientation t="2" v="[-0.187303,-0.187303,-0.036408,0.963592]" />
+            <Position t="2" v="[-30.000000,34.000000,73.000000]" />
+        </Camera>
+        <Debug>
+            <DumpCostTrees t="0" v="0" />
+            <DumpSurfaceMaps t="0" v="0" />
+        </Debug>
+        <ExportVersion t="3" v="7.0.5.0" />
+        <MaxReservedObjectID t="1" v="262" />
+        <Reporting>
+            <ICECacheWindowDuration t="3" v="00:36:00" />
+            <ICECacheWindowStart t="3" v="02:54:00" />
+            <QueueAverageReportPeriod t="1" v="30" />
+            <QueueAverageWindowSize t="1" v="60" />
+            <RecordFloorJourneyTime t="0" v="0" />
+            <RecordICECache t="0" v="0" />
+            <RecordQueueAverageOnLinks t="0" v="0" />
+            <RecordQueueAverageOnServers t="0" v="0" />
+            <RecordTokenJourneyTime t="0" v="0" />
+            <SamplePeriod t="2" v="60.000000" />
+            <SpeedCongestionFactor t="2" v="0.880000" />
+            <UseICECacheWindow t="0" v="0" />
+        </Reporting>
+        <Runtime>
+            <FrameRate t="1" v="5" />
+            <MaxDuration t="3" v="00:36:00" />
+            <PopulationMultiplier t="2" v="1.000000" />
+            <RandomSeed t="1" v="1234" />
+            <StartTime t="3" v="02:54:00" />
+        </Runtime>
+        <Vis>
+            <BackgroundColor t="2" v="[0.400000,0.400000,0.400000,1.000000]" />
+        </Vis>
+    </Settings>
+    <XSIVersion t="3" v="13.0.114.0" />
+</Project>
